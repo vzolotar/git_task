@@ -1,0 +1,4 @@
+total 8
+-rw-rw-r-- 1 su su  0 Jul 13 20:06 ababa1.txt
+-rwxr-xr-x 1 su su 30 Jul 12 23:41 git_task.sh
+-rw-rw-r-- 1 su su 10 Jul 12 23:37 README.md
