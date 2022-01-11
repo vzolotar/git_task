@@ -1,11 +1,10 @@
-<<<<<<< HEAD
 # Last Updated - Tue Jan 11 16:15:03 EST 2022
-=======
 # Simple Git Push Automation
 # 
+
 git add .
 git commit -m 'test commit'
 git push https://github.com/username/git_task.git
 
 # Last Updated - Sun Jan  9 11:10:01 EST 2022
->>>>>>> 97d12df0eac47b07720d69db3edbbcbb260479dc
+# Last Updated - Tue Jan 11 16:55:31 EST 2022
